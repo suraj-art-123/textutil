@@ -1,0 +1,156 @@
+
+.navbar{
+  background-color: rgb(44, 56,67);
+}
+.head1{
+  background-color: rgb(44, 56,67);
+  opacity: 0.90;
+  
+  
+}
+  
+  .para1{
+    color:rgb(255, 75,90);
+  }
+  .btn1{
+    background-color: rgb(255, 75,90);
+    border-radius: 5px;
+  }
+  .para2{
+  color:rgb(31,171,90)
+  }
+  .btn2{
+    background-color: rgb(31,171,90);
+    border-radius: 5px;
+  }
+  .container1{
+    background-color: rgb(44, 56,67);
+  }
+    .list1{
+      color:rgb(255, 75,90);
+    }
+    .list1 span{
+      color: white;
+    }
+    .list2{
+      color: rgb(31,171,90);
+    }
+    .list2 span{
+      color:black;
+      
+    }
+  .cont1{
+    background-color: rgb(242,242,242);
+    min-width: 100%;
+    min-height: 100%;
+    }
+    .cont2{
+      background-color: rgb(237,235,235);
+      min-width: 100%;
+      min-height: 100%;
+    }
+    .cont3{
+        background-color: rgb(250,248,248);
+        min-width: 100%;
+        min-height: 100%;
+      }
+      .cont4{
+        background-color: rgb(241,241,241);
+        min-width: 100%;
+        min-height: 100%;
+      }
+      .cont5{
+        background-color: rgb(251,248,248);
+        min-width: 100%;
+        min-height: 100%;
+      }
+      .cont6{
+        background-color: rgb(50,58,69);
+        min-width: 100%;
+        min-height: 100%;
+      }
+      
+    .img1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer1{
+      background-color: rgb(42,48,57);
+      height: 60px;
+      border-top: 3px solid #DC3545
+    }
+    .bg-light {
+      background-color:#323a447a !important;
+  }
+  li.nav-item {
+    margin-right: 50px;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: #fff;
+  text-align: center;
+  padding: 5px 15px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+   color: #fff;
+  text-align: center;
+  background: rgb(255, 75,90);
+  border-radius: 20px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+  background-color: rgb(255, 75,90);
+  border-radius: 15px;
+  }
+
+.navbar-brand img{max-height: 40px;}
+.banner-text {
+  color: #fff;
+}
+    .header-bg{
+      background: url("../images/student2.jpg") no-repeat center;
+      background-size: cover;
+      width: 100%;
+      height: 100%;
+    }
+
+    .carousel-indicators li {
+      width: 10px;
+      height: 10px;
+      border-radius: 100%;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+      width: 50px;
+      height: 50px;
+      border: 2px solid #fff;
+      padding: 10px;
+  }
+
+  .mobile-img {
+    padding-left: 15%;
+    padding-top: 10%;
+    height: 800px;
+    width: 550px;
+}
+.banner1{
+  padding-right:15%;
+  padding-top: 15%;  
+
+}
+.frank1{
+  padding-left:37%;
+}
+.frank2{
+  padding-right:10%;
+}
+.grpimg{
+  width: 90%;
+  height:75%x;
+}
+.icon1{
+  float:right;
+  padding-left:2%;
+}
+.colom1{
+  padding-left: 120px;
+  margin-top: 70px;
+}
